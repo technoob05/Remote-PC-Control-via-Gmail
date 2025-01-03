@@ -1,0 +1,16 @@
+C:\Users\Asus Vivobook\source\repos\Socket-project\Login_Form\Project1\x64\Debug\Login_Form.vcxproj.AssemblyReference.cache
+C:\Users\Asus Vivobook\source\repos\Socket-project\Login_Form\Project1\x64\Debug\LoginForm.Client.resources
+C:\Users\Asus Vivobook\source\repos\Socket-project\Login_Form\Project1\x64\Debug\LoginForm.MyForm.resources
+C:\Users\Asus Vivobook\source\repos\Socket-project\Login_Form\Project1\x64\Debug\LoginForm.RegisterForm1.resources
+C:\Users\Asus Vivobook\source\repos\Socket-project\Login_Form\Project1\x64\Debug\LoginForm.SelectionForm.resources
+C:\Users\Asus Vivobook\source\repos\Socket-project\Login_Form\Project1\x64\Debug\LoginForm.ServerForm.resources
+C:\Users\Asus Vivobook\source\repos\Socket-project\Login_Form\Project1\x64\Debug\Login_Form.vcxproj.GenerateResource.cache
+C:\Users\Asus Vivobook\source\repos\Socket-project\Login_Form\Project1\x64\Debug\Login_Fo.63109366.Up2Date
+C:\Project\Socket-project\Login_Form\Project1\x64\Debug\Login_Form.vcxproj.AssemblyReference.cache
+C:\Project\Socket-project\Login_Form\Project1\x64\Debug\LoginForm.Client.resources
+C:\Project\Socket-project\Login_Form\Project1\x64\Debug\LoginForm.MyForm.resources
+C:\Project\Socket-project\Login_Form\Project1\x64\Debug\LoginForm.RegisterForm1.resources
+C:\Project\Socket-project\Login_Form\Project1\x64\Debug\LoginForm.SelectionForm.resources
+C:\Project\Socket-project\Login_Form\Project1\x64\Debug\LoginForm.ServerForm.resources
+C:\Project\Socket-project\Login_Form\Project1\x64\Debug\Login_Form.vcxproj.GenerateResource.cache
+C:\Project\Socket-project\Login_Form\Project1\x64\Debug\Login_Fo.63109366.Up2Date

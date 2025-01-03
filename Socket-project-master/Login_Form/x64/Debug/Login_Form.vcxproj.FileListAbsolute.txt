@@ -1,0 +1,36 @@
+D:\Project socket\Login_Form\x64\Debug\Login_Form.vcxproj.AssemblyReference.cache
+D:\Project socket\Login_Form\x64\Debug\LoginForm.MyForm.resources
+D:\Project socket\Login_Form\x64\Debug\LoginForm.ServerForm.resources
+D:\Project socket\Login_Form\x64\Debug\Login_Form.vcxproj.GenerateResource.cache
+D:\Project socket\Login_Form\x64\Debug\Login_Form.vcxproj.CopyComplete
+D:\Project socket\Login_Form\x64\Debug\Project1.exe
+C:\Users\FPT\source\repos\Socket-project\Login_Form\x64\Debug\Login_Form.vcxproj.AssemblyReference.cache
+C:\Users\FPT\source\repos\Socket-project\Login_Form\x64\Debug\LoginForm.MyForm.resources
+C:\Users\FPT\source\repos\Socket-project\Login_Form\x64\Debug\LoginForm.ServerForm.resources
+C:\Users\FPT\source\repos\Socket-project\Login_Form\x64\Debug\Login_Form.vcxproj.GenerateResource.cache
+C:\Users\FPT\source\repos\Socket-project\Login_Form\x64\Debug\Login_Form.vcxproj.CopyComplete
+C:\Users\FPT\source\repos\Socket-project\Login_Form\x64\Debug\Project1.exe
+C:\Users\FPT\source\repos\Socket_project\Login_Form\x64\Debug\Login_Form.vcxproj.AssemblyReference.cache
+C:\Users\FPT\source\repos\Socket_project\Login_Form\x64\Debug\LoginForm.MyForm.resources
+C:\Users\FPT\source\repos\Socket_project\Login_Form\x64\Debug\LoginForm.ServerForm.resources
+C:\Users\FPT\source\repos\Socket_project\Login_Form\x64\Debug\Login_Form.vcxproj.GenerateResource.cache
+C:\Users\FPT\source\repos\Socket_project\Login_Form\x64\Debug\Login_Form.vcxproj.CopyComplete
+C:\Users\FPT\source\repos\Socket_project\Login_Form\x64\Debug\Project1.exe
+D:\Socket\Socket-project\Login_Form\x64\Debug\Login_Form.vcxproj.AssemblyReference.cache
+D:\Socket\Socket-project\Login_Form\x64\Debug\LoginForm.MyForm.resources
+D:\Socket\Socket-project\Login_Form\x64\Debug\LoginForm.ServerForm.resources
+D:\Socket\Socket-project\Login_Form\x64\Debug\Login_Form.vcxproj.GenerateResource.cache
+D:\Socket\Socket-project\Login_Form\x64\Debug\Login_Form.vcxproj.CopyComplete
+D:\Socket\Socket-project\Login_Form\x64\Debug\Project1.exe
+C:\Users\FPT\Downloads\Socket-project\Socket-project\Login_Form\x64\Debug\Login_Form.vcxproj.AssemblyReference.cache
+C:\Users\FPT\Downloads\Socket-project\Socket-project\Login_Form\x64\Debug\LoginForm.Client.resources
+C:\Users\FPT\Downloads\Socket-project\Socket-project\Login_Form\x64\Debug\LoginForm.MyForm.resources
+C:\Users\FPT\Downloads\Socket-project\Socket-project\Login_Form\x64\Debug\LoginForm.RegisterForm1.resources
+C:\Users\FPT\Downloads\Socket-project\Socket-project\Login_Form\x64\Debug\LoginForm.SelectionForm.resources
+C:\Users\FPT\Downloads\Socket-project\Socket-project\Login_Form\x64\Debug\LoginForm.ServerForm.resources
+C:\Users\FPT\Downloads\Socket-project\Socket-project\Login_Form\x64\Debug\Login_Form.vcxproj.GenerateResource.cache
+C:\Users\FPT\Downloads\Socket-project\Socket-project\Login_Form\x64\Debug\Login_Form.vcxproj.CopyComplete
+C:\Users\FPT\Downloads\Socket-project\Socket-project\Login_Form\x64\Debug\Project1.exe
+D:\Socket\Socket-project\Login_Form\x64\Debug\LoginForm.Client.resources
+D:\Socket\Socket-project\Login_Form\x64\Debug\LoginForm.RegisterForm1.resources
+D:\Socket\Socket-project\Login_Form\x64\Debug\LoginForm.SelectionForm.resources

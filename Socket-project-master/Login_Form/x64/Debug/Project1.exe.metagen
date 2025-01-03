@@ -1,0 +1,55 @@
+  LoginForm.Client.resources - Embedded, ContainedInManifestFile, 
+  LoginForm.MyForm.resources - Embedded, ContainedInManifestFile, 
+  LoginForm.RegisterForm1.resources - Embedded, ContainedInManifestFile, 
+  LoginForm.SelectionForm.resources - Embedded, ContainedInManifestFile, 
+  LoginForm.ServerForm.resources - Embedded, ContainedInManifestFile, 
+ImageRuntimeVersion: v4.0.30319
+Assembly Project1, Version=0.0.*, Culture=Invariant Language (Invariant Country): 
+	hash=SHA1, flags=PublicKey
+Assembly mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly EAGetMail, Version=5.3.5.1, Culture=neutral, PublicKeyToken=e10a0812eb29cf94: 
+	hash=None, flags=None
+Assembly System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a: 
+	hash=None, flags=None
+Assembly System.Net, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a: 
+	hash=None, flags=None
+Assembly System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Xml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Class LoginForm.CustomProgressBar: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.ProgressBar
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class LoginForm.Client: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(System.String, System.String, System.String, Int32): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class LoginForm.ServerForm: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Methods:
+    UpdateCommunicationLog(String): PrivateScope, Public, HideBySig
+    StartServer(): PrivateScope, Public, HideBySig
+Class UserInfo.User: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    System.String UserId : Public, Static
+    System.String SenderEmail : Public, Static
+    System.String ReceiverEmail : Public, Static
+    System.String ApplicationKey : Public, Static
+    System.String Password : Public, Static
+  Methods:
+    SetUserInfo(String, String, String, String, String): PrivateScope, Public, Static, HideBySig
+Class LoginForm.RegisterForm1: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class LoginForm.SelectionForm: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(System.String, System.String, System.String): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class LoginForm.MyForm: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName

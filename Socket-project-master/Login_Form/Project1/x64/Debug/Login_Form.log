@@ -1,0 +1,17 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.MetaGen.targets(91,5): warning : Required file "C:\PROJECT\SOCKET-PROJECT\LOGIN_FORM\X64\DEBUG\EAGETMAIL.DLL" is missing.
+  Bar.cpp
+  Client.cpp
+  clientest.cpp
+  MyForm.cpp
+  RegisterForm1.cpp
+C:\Users\Asus Vivobook\Downloads\Socket-project-master (4)\Socket-project-master\Login_Form\Client.cpp(85,43): warning C4566: character represented by universal-character-name '\u1ECB' cannot be represented in the current code page (1258)
+C:\Users\Asus Vivobook\Downloads\Socket-project-master (4)\Socket-project-master\Login_Form\Client.cpp(85,43): warning C4566: character represented by universal-character-name '\u1EC9' cannot be represented in the current code page (1258)
+C:\Users\Asus Vivobook\Downloads\Socket-project-master (4)\Socket-project-master\Login_Form\Client.cpp(85,43): warning C4566: character represented by universal-character-name '\u1EE3' cannot be represented in the current code page (1258)
+C:\Users\Asus Vivobook\Downloads\Socket-project-master (4)\Socket-project-master\Login_Form\Client.cpp(85,43): warning C4566: character represented by universal-character-name '\u1EC7' cannot be represented in the current code page (1258)
+  SelectionForm.cpp
+  ServerForm.cpp
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Generating Code...
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets(3414,5): error MSB3821: Couldn't process file Client.resx due to its being in the Internet or Restricted zone or having the mark of the web on the file. Remove the mark of the web if you want to process these files.
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets(3414,5): error MSB3821: Couldn't process file MyForm.resx due to its being in the Internet or Restricted zone or having the mark of the web on the file. Remove the mark of the web if you want to process these files.
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets(3414,5): error MSB3821: Couldn't process file RegisterForm1.resx due to its being in the Internet or Restricted zone or having the mark of the web on the file. Remove the mark of the web if you want to process these files.
